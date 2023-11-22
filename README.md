@@ -3,6 +3,7 @@ Official PyTorch implementation for our NeurIPS 2023 paper will be coming soon, 
 
 ## Videos
 
+<img src="https://i.imgur.com/5eM9lpz.gif"/>
 
 |                                   |                                   |
 |-----------------------------------|-----------------------------------|
