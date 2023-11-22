@@ -2,7 +2,6 @@
 Official PyTorch implementation for our NeurIPS 2023 paper will be coming soon, [From ViT Features to Training-free Video Object Segmentation via Streaming-data Mixture Models](https://openreview.net/pdf?id=jfsjKBDB1z).
 
 Qualitative results are available [here](https://youtu.be/jZ6gtBIbzIc).
-## Videos
 
 ![output3](https://github.com/BGU-CS-VIL/Training-Free-VOS/assets/23636745/f45e7fe2-27bd-420d-832d-b7995f0a8595)
 ![output2](https://github.com/BGU-CS-VIL/Training-Free-VOS/assets/23636745/813dd250-b070-498d-9fa2-146b54302b34)
