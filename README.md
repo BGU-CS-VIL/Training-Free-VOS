@@ -48,3 +48,17 @@ Follow these steps to download and set up the DAVIS 2017 dataset:
    ```bash
    unzip DAVIS-2017-trainval-480p.zip -d ./data/
 
+## Extracting Features with XCiT
+
+We use the Cross-Covariance Image Transformer (XCiT) for feature extraction. You can find more information about XCiT here: [XCiT GitHub Repository](https://github.com/facebookresearch/xcit).
+
+The pre-extracted features are available for download:
+
+1. Download the features from the following link:
+   [Download Features](link)
+
+2. Unzip the downloaded file into the `features` folder in your project directory:
+   ```bash
+   unzip [DOWNLOADED_FILE_NAME].zip -d features/
+
+
