@@ -63,3 +63,17 @@ The pre-extracted features are available for download:
    unzip XCIT-feat.zip -d features/
 
 
+
+
+
+## Citation
+We hope you find our work useful. If you would like to acknowledge it in your project, please use the following citation:
+```
+@inproceedings{uziel2023vit,
+  title={From ViT Features to Training-free Video Object Segmentation via Streaming-data Mixture Models},
+  author={Uziel, Roy and Dinari, Or and Freifeld, Oren},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023}
+}
+
+
