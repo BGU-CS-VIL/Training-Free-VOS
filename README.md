@@ -13,9 +13,10 @@ Official PyTorch implementation for our NeurIPS 2023 paper will be coming soon, 
 
 ## Table of Contents
 - [Installation](#installation)
-- [Downloading Features](#downloading-features)
-- [Running the Project](#running-the-project)
+- [Downloading DAVIS 2017 Dataset](#downloading-davis-2017-dataset)
+- [Extracting Features with XCiT](#extracting-features-with-xcit)
 - [License](#license)
+
 
 ## Installation
 
