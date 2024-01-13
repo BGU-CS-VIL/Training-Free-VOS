@@ -62,10 +62,6 @@ The pre-extracted features are available for download:
    ```bash
    unzip XCIT-feat.zip -d features/
 
-
-
-
-
 ## Citation
 We hope you find our work useful. If you would like to acknowledge it in your project, please use the following citation:
 ```
