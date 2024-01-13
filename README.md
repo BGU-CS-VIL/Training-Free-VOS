@@ -56,7 +56,7 @@ We use the Cross-Covariance Image Transformer (XCiT) for feature extraction. You
 The pre-extracted features are available for download:
 
 1. Download the features from the following link:
-   [Download Features](link)
+   [Download Features](https://drive.google.com/file/d/1bg5xfjx6-NY40yuLIS7UlVjewY-PGXWb/view?usp=sharing)
 
 2. Unzip the downloaded file into the `features` folder in your project directory:
    ```bash
