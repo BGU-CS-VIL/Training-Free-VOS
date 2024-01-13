@@ -37,7 +37,14 @@ To create a repository using the `env.yaml` file, follow these steps:
    ```bash
    conda activate VOS
   
+## Downloading DAVIS 2017 Dataset
 
+Follow these steps to download and set up the DAVIS 2017 dataset:
 
-2
+1. Download the DAVIS 2017 dataset from the following link:
+   [DAVIS 2017 TrainVal 480p](https://data.vision.ee.ethz.ch/csergi/share/davis/DAVIS-2017-trainval-480p.zip)
+
+2. Extract the downloaded file under the `data` folder in your project directory:
+   ```bash
+   unzip DAVIS-2017-trainval-480p.zip -d ./data/
 
