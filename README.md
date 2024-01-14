@@ -15,8 +15,7 @@ Official PyTorch implementation for our NeurIPS 2023 paper will be coming soon, 
 - [Installation](#installation)
 - [Downloading DAVIS 2017 Dataset](#downloading-davis-2017-dataset)
 - [Extracting Features with XCiT](#extracting-features-with-xcit)
-- [Inference](#Inference)
-- [License](#license)
+- [Inference](#inference)
 
 
 ## Installation
@@ -64,9 +63,16 @@ The pre-extracted features are available for download:
    unzip XCIT-feat.zip -d ./features/
 
 ## Inference
-   ```bash
-  python main_seg.py
 
+To run the inference, use the command below. You can modify the arguments as needed:
+
+```bash
+python main_seg.py
+
+--loc: Location scale factor. Default is 10.
+--time: Time factor. Default is 0.33.
+--num_models: Number of models. Default is 10.
+```
 
 ## Citation
 We hope you find our work useful. If you would like to acknowledge it in your project, please use the following citation:
@@ -77,5 +83,3 @@ We hope you find our work useful. If you would like to acknowledge it in your pr
   booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
   year={2023}
 }
-
-
