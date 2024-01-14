@@ -60,7 +60,7 @@ The pre-extracted features are available for download:
 
 2. Unzip the downloaded file into the `features` folder in your project directory:
    ```bash
-   unzip XCIT-feat.zip -d features/
+   unzip XCIT-feat.zip -d ./features/
 
 ## Citation
 We hope you find our work useful. If you would like to acknowledge it in your project, please use the following citation:
