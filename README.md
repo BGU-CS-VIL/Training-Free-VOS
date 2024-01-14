@@ -15,6 +15,7 @@ Official PyTorch implementation for our NeurIPS 2023 paper will be coming soon, 
 - [Installation](#installation)
 - [Downloading DAVIS 2017 Dataset](#downloading-davis-2017-dataset)
 - [Extracting Features with XCiT](#extracting-features-with-xcit)
+- [Inference](#Inference)
 - [License](#license)
 
 
@@ -61,6 +62,11 @@ The pre-extracted features are available for download:
 2. Unzip the downloaded file into the `features` folder in your project directory:
    ```bash
    unzip XCIT-feat.zip -d ./features/
+
+## Inference
+   ```bash
+  python main_seg.py
+
 
 ## Citation
 We hope you find our work useful. If you would like to acknowledge it in your project, please use the following citation:
