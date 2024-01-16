@@ -1,5 +1,5 @@
 # From ViT Features to Training-free Video Object Segmentation via Streaming-data Mixture Models
-Official PyTorch implementation for our NeurIPS 2023 paper will be coming soon, [From ViT Features to Training-free Video Object Segmentation via Streaming-data Mixture Models](https://openreview.net/pdf?id=jfsjKBDB1z).
+Official PyTorch implementation for our NeurIPS 2023 paper, [From ViT Features to Training-free Video Object Segmentation via Streaming-data Mixture Models](https://openreview.net/pdf?id=jfsjKBDB1z).
 
 [Qualitative results](https://youtu.be/jZ6gtBIbzIc)
 
@@ -74,6 +74,7 @@ python main_seg.py
 --loc: Location scale factor. Default is 10.
 --time: Time factor. Default is 0.33.
 --num_models: Number of models. Default is 10.
+--vis: Enable saving segmentation overlay on the image
 ```
 
 ## Citation
